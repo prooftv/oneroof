@@ -4,8 +4,8 @@ import {visionTool} from '@sanity/vision'
 import {schemaTypes} from './schemas'
 
 
-const projectId =gz4pcqwf;
-const dataset =production;
+const projectId ="gz4pcqwf";
+const dataset ="production";
 const apiVersion = process.env.NEXT_PUBLIC_SANITY_STUDIO_API_VERSION!;
 
 export default defineConfig({
